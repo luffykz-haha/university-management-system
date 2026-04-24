@@ -1,1 +1,5 @@
+org\example\ums\service\UserServiceTest.class
+org\example\ums\service\CourseServiceTest.class
+org\example\ums\util\JwtUtilTest.class
+org\example\ums\service\EnrollmentServiceTest.class
 org\example\ums\UniversityManagementSystemApplicationTests.class
