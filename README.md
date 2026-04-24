@@ -2,7 +2,7 @@
 
 ## Description
 
-The University Management System is a Spring-Boot web-application designed to simplify university administration by offering a centralized platform for managing academic operations. It features a RESTful API that handles user roles, course organization, and student enrollments - all secured through JWT authentication and role-based permissions.
+The University Management System is a Spring-Boot web-application developed to streamline and enhance university administrative processes by providing a centralized digital platform. It features a RESTful API that handles user roles, course organization, and student enrollments - all secured through JWT authentication and role-based permissions.
 
 ## Key Features:
 - User Management: Create, update, and manage user roles (STUDENT, TEACHER, ADMIN).
